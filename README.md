@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utsav2000
 - 👀 I’m interested in Java web base projects
-- 💞️ I’m looking to collaborate on java developer
+-  I’m looking to collaborate on java developer
 - 📫 How to reach me 
 utsavpanchal447@gmail.com
 
